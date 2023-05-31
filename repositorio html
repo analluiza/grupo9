@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <header>
+        <div class="Logo"></div>
+
+        <ul>
+            <li>Home</li>
+            <li>Produtos</li>
+            <li>Contatos</li>
+        </ul>
+        
+    </header>
+
+    <div class="area-cadastro">
+        <div class="input"><input type="text" name="nome" size="65" placeholder=" nome de usuario" autofocus> </div>
+            <div class="input"> <input type="password" name="senha" size="65" placeholder="digite a senha" autofocus> </div>
+                <div class="input"> <input type="text" name="email" size="65" placeholder=" seu email" autofocus> </div>
+                    <div class="input"> <input type="text" name="cpf" size="65" placeholder="seu cpf" autofocus> </div>
+                        <div class="input"><input type="submit" size="65" value="Entrar"></div>
+        <p> Já possui uma conta?<a href="#">Entre na sua conta já criada</a></p>
+    </div>
+
+
+
+
+
+
+
+
+
+
+    </footer>
+</body>
+</html>
