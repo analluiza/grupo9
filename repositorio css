@@ -1,0 +1,64 @@
+*{
+	margin: 0;
+	padding: 0%;
+	font-family: 'Times New Roman', Times, serif;
+	}
+	
+	body{
+	background-color: rgb(22,22,22);
+	}
+	
+	.Logo{
+		width: 60px;
+		height: 60px;
+		border-radius: 50%;
+		background-color: red;
+		cursor: pointer;
+	}
+	
+	header{
+		display: flex;
+		justify-content: space-between;
+		background-color: black;
+		color: blueviolet;
+		box-shadow: 0 0 1rem blueviolet;
+	}
+	ul{
+		display: flex;
+		margin: 23px;
+	}
+	li{
+		color: blueviolet;
+		list-style-type: none;
+		cursor: pointer;
+		padding-left: 2rem; 
+	}
+	
+	
+	
+	.area-cadastro{
+		background-color: black;
+		text-align: center;
+		height: 450px;
+		margin-left: auto;
+		margin-right: auto;
+		border-radius: 30px;
+		width: 70vh;
+		margin-top: 5%;
+		border-color:blueviolet;
+		border-style:solid;
+		color: rgb(255, 255, 255);
+	
+	}
+	
+	.input{
+		color: rgb(22,22,22);
+		text-align: 10px ;
+		height: 5vh;
+		width: 50vh;
+		border-radius: 20px;
+		margin-top: 35px;
+		margin-left: 90px;
+		align-items: center;
+		position: center;
+	}
